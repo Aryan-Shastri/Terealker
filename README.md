@@ -42,23 +42,6 @@
 
 ## How to Use
 
-### 🪟 Windows
-
-1. **Download `Tereallker.exe`** to your Windows machine.
-2. **Open Command Prompt as Administrator:**
-   - Press `Win`, type `cmd`, right-click **Command Prompt**, and select **Run as administrator**.
-3. **Navigate to the folder containing `Tereallker.exe`:**
-   ```sh
-   cd path\to\your\Tereallker.exe
-   ```
-4. **Run the honeypot:**
-   ```sh
-   Tereallker.exe
-   ```
-   > *Administrator privileges are required to bind to ports 21, 22, and 80.*
-
----
-
 ### 🐧 Linux
 
 1. **Download or copy the `Tereallker` binary to your Linux machine.**
